@@ -4,31 +4,21 @@
 
 Index of repositories for Linux desktop tools, KDE/Plasma widgets, system utilities, desktop applications, and workstation management.
 
-*Last updated: 2026-03-25*
+**Last Updated:** October 2026
 
 ---
 
 ## KDE Plasma Widgets & Actions
-
-### Hebrew-Date-KDE-Widget
-WIP - KDE Plasmoid for displaying the Hebrew calendar date
-
-[![GitHub](https://img.shields.io/badge/GitHub-Hebrew--Date--KDE--Widget-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Hebrew-Date-KDE-Widget)
 
 ### KDE-AC-Controller-Widget
 Controller widget for AC
 
 [![GitHub](https://img.shields.io/badge/GitHub-KDE--AC--Controller--Widget-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/KDE-AC-Controller-Widget)
 
-### Local-UTC-KDE-Widget
-WIP - KDE Plasma widget for displaying local and UTC time in 24 hour format
-
-[![GitHub](https://img.shields.io/badge/GitHub-Local--UTC--KDE--Widget-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Local-UTC-KDE-Widget)
-
-### Claude-Dolphin-Konsole-Actions
+### Dolphin-AI-Actions
 Dolphin actions for KDE + Claude Code
 
-[![GitHub](https://img.shields.io/badge/GitHub-Claude--Dolphin--Konsole--Actions-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Dolphin-Konsole-Actions)
+[![GitHub](https://img.shields.io/badge/GitHub-Claude--Dolphin--Konsole--Actions-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Dolphin-AI-Actions)
 
 ### Open-In-Windsurf-KDE
 "Open In Windsurf" (AI IDE) context menu element for KDE Plasma
@@ -40,29 +30,12 @@ Dolphin action for KDE Plasma to quickly invoke RMBG for background removal
 
 [![GitHub](https://img.shields.io/badge/GitHub-Quick--RMBG-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Quick-RMBG)
 
-### touchpad-mouse-toggle
-Auto-disable laptop touchpad when external mouse is connected (KDE Wayland)
-
-[![GitHub](https://img.shields.io/badge/GitHub-touchpad--mouse--toggle-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/touchpad-mouse-toggle)
-
----
-
 ## Desktop Applications
-
-### Claude-Bug-Catcher
-Desktop utility for catching bugs in the moment
-
-[![GitHub](https://img.shields.io/badge/GitHub-Claude--Bug--Catcher-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Bug-Catcher)
 
 ### Claude-Konsole-Launcher
 Launch utility (WIP) for using Claude Code + Konsole in KDE Plasma
 
 [![GitHub](https://img.shields.io/badge/GitHub-Claude--Konsole--Launcher-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Konsole-Launcher)
-
-### Claude-Linux-Desktop-Manager
-WIP/Plan: extension of slash commands to an actual GUI/program
-
-[![GitHub](https://img.shields.io/badge/GitHub-Claude--Linux--Desktop--Manager-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Linux-Desktop-Manager)
 
 ### Dual-WhatsApp-Linux-Desktop
 Dual WA client for the Linux desktop (AI generated)
@@ -73,11 +46,6 @@ Dual WA client for the Linux desktop (AI generated)
 Linux Electron desktop wrapper for Homebox
 
 [![GitHub](https://img.shields.io/badge/GitHub-Homebox--Desktop--Wrapper--AppImage-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Homebox-Desktop-Wrapper-AppImage)
-
-### Linux-Github-Repo-Launcher
-Github repository search and quick launch utility preconfigured for VS Code & Windsurf
-
-[![GitHub](https://img.shields.io/badge/GitHub-Linux--Github--Repo--Launcher-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Linux-Github-Repo-Launcher)
 
 ### Nano-Banana-Desktop
 Vibe coded starter for a Nano Banana inpainting utility / image editor (Gemini API)
@@ -98,47 +66,10 @@ Desktop app for running batch "ideation" prompts with a local LLM
 
 ## Voice & Dictation (Desktop)
 
-### deepgram-voice-keyboard
-Fork of Deepgram's Linux starter. CLI -> GUI + hotkey support, API key editing, cost tracking
-
-[![GitHub](https://img.shields.io/badge/GitHub-deepgram--voice--keyboard-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/deepgram-voice-keyboard)
-
-### Deepgram-Voice-Keyboard-Ubuntu
-WIP to create a good STT utility with cloud STT APIs
-
-[![GitHub](https://img.shields.io/badge/GitHub-Deepgram--Voice--Keyboard--Ubuntu-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Deepgram-Voice-Keyboard-Ubuntu)
-
-### hyprvoice
-Voice-powered typing for Wayland/Hyprland desktops
-
-[![GitHub](https://img.shields.io/badge/GitHub-hyprvoice-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/hyprvoice)
-
-### parakeet-dictation
-On-device voice typing for Linux using Parakeet and NeMo ASR models via sherpa-onnx
-
-[![GitHub](https://img.shields.io/badge/GitHub-parakeet--dictation-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/parakeet-dictation)
-
-### speech-notes-with-text-fixes
-Speech Note Linux app. Note taking, reading and translating with offline STT, TTS and Machine translation
-
-[![GitHub](https://img.shields.io/badge/GitHub-speech--notes--with--text--fixes-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/speech-notes-with-text-fixes)
-
 ### Thought-Pad
 Linux desktop application for creating notes from dictated speech
 
 [![GitHub](https://img.shields.io/badge/GitHub-Thought--Pad-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Thought-Pad)
-
-### Voice-Note-Recorder-Ubuntu
-GUI for recording voice notes
-
-[![GitHub](https://img.shields.io/badge/GitHub-Voice--Note--Recorder--Ubuntu-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Voice-Note-Recorder-Ubuntu)
-
-### Wayland-Voice-Typer
-Simple GUI around whisper.cpp for voice-to-text on Linux
-
-[![GitHub](https://img.shields.io/badge/GitHub-Wayland--Voice--Typer-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Wayland-Voice-Typer)
-
----
 
 ## System Administration & Agents
 
@@ -161,11 +92,6 @@ WIP - Computer use agent for routine use of Linux desktop environments (Ubuntu)
 Ubuntu maintenance agent using Gemini
 
 [![GitHub](https://img.shields.io/badge/GitHub-Gemini--Ubuntu--Maintenance--Agent-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Gemini-Ubuntu-Maintenance-Agent)
-
-### Install-This-Debian
-A simple litmus test for assessing whether agentic CLIs are useful for basic desktop admin tasks
-
-[![GitHub](https://img.shields.io/badge/GitHub-Install--This--Debian-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Install-This-Debian)
 
 ### Local-Linux-Repair-Bot
 Experimentary repo to try use an AI IDE as a local agent workspace for local OS debugging
@@ -249,20 +175,15 @@ Short collection of MCPs to install for CC on Linux Desktop
 
 [![GitHub](https://img.shields.io/badge/GitHub-Claude--Code--MCP--List-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Code-MCP-List)
 
-### Claude-Code-Notebook
-Personal reference notebook for Claude Code (CLI) usage. Context: Linux desktop (Ubuntu)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Claude--Code--Notebook-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Code-Notebook)
-
 ### Desktop-MCP
 Local MCP server exposing specialised tools to agents
 
 [![GitHub](https://img.shields.io/badge/GitHub-Desktop--MCP-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Desktop-MCP)
 
-### Linux-Friendly-Voice-Tech
+### Linux-Voice-Tech
 List of resources for voice technology with support for Linux
 
-[![GitHub](https://img.shields.io/badge/GitHub-Linux--Friendly--Voice--Tech-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Linux-Friendly-Voice-Tech)
+[![GitHub](https://img.shields.io/badge/GitHub-Linux--Friendly--Voice--Tech-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Linux-Voice-Tech)
 
 ### Linux-MCP-Clients
 A very small list of MCP clients that are available to Linux users
@@ -327,11 +248,6 @@ Planning notes for a voice typing tool
 Quick evaluation to find the best STT model in Speech Note (Ubuntu) for specific hardware
 
 [![GitHub](https://img.shields.io/badge/GitHub-Local--ASR--STT--Benchmark-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Local-ASR-STT-Benchmark)
-
-### Github-Repo-Pruner
-Helps to discard old repositories from a local filesystem (for Linux)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Github--Repo--Pruner-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Github-Repo-Pruner)
 
 ### Voice-Training-Data-Creator
 GUI to facilitate capturing voice data for TTS / voice clone training (Ubuntu Linux)
